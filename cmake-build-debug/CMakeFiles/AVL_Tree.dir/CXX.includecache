@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rasto/CLionProjects/AVL-Tree/AVL_Iter.h
+iostream
+C:/Users/rasto/CLionProjects/AVL-Tree/iostream
+Tree_node.h
+C:/Users/rasto/CLionProjects/AVL-Tree/Tree_node.h
+
+C:/Users/rasto/CLionProjects/AVL-Tree/AVL_Tree.h
+iostream
+-
+Tree_node.h
+C:/Users/rasto/CLionProjects/AVL-Tree/Tree_node.h
+AVL_Iter.h
+C:/Users/rasto/CLionProjects/AVL-Tree/AVL_Iter.h
+
+C:/Users/rasto/CLionProjects/AVL-Tree/Tree_node.h
+
+C:/Users/rasto/CLionProjects/AVL-Tree/main.cpp
+AVL_Tree.h
+C:/Users/rasto/CLionProjects/AVL-Tree/AVL_Tree.h
+algorithm
+-
+
